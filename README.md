@@ -19,7 +19,7 @@ The **AI-Powered Travel Insights & Recommendation System** helps travelers disco
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/travel-insights-system.git
+   git clone https://github.com/Abhishek21112000/travel-insights-system.git
    cd travel-insights-system
    ```
 2. Install dependencies:
